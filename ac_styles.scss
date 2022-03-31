@@ -1,0 +1,68 @@
+#widget-container {
+	#okta-sign-in {
+  		.auth-org-logo {
+    		position: static;
+			width: 120px;
+			max-height: 50px;
+			left: 96.44px;
+			top: calc(50% - 40px/2 - 229.5px)
+    	}
+		a.link{
+  			color: #0087D3;
+  			display: contents;
+  		}
+		.button-primary {
+  			color: #fff;
+  			font-size:16px;
+  			background: #0087D3;
+  			&:hover{
+  				color: #fff;
+  				background: lighten(#0087D3, 3%);
+    		}
+  		}
+		.o-form-head {
+  			position: static;
+			width: 296px;
+			height: 45px;
+			left: calc(50% - 296px/2);
+			top: calc(50% - 32px/2 - 153.5px);
+			font-style: normal;
+			font-weight: 600;
+			font-size:20px;
+			line-height: 133.4%;
+			text-align: center;
+			letter-spacing: -0.25px;
+			color: rgba(0, 0, 0, 0.87);
+  		}
+		.okta-form-input-field {
+  			background: #EEEEEE;
+  		}
+		input {
+  			&::placeholder {
+  				color: rgba(0, 0, 0, 0.6); 	
+  			}
+  		}
+		.custom-checkbox input {
+ 			background: rgba(0, 0, 0, 0.6);
+  		}
+		.custom-checkbox label {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 13px;
+			line-height: 150%;
+			letter-spacing: 0.15px;
+			color: rgba(0, 0, 0, 0.87);
+  		}
+		.auth-footer{
+  			display: contents;
+  			text-align: center;
+  			font-size: 16px;
+  			.js-help{
+    			display: none;
+    		}
+  		}
+		.help-links{
+  			display: block !important;
+  		}
+  	}
+}
