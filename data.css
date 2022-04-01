@@ -1,24 +1,24 @@
-#widget-container #okta-sign-in .auth-org-logo {
+#okta-sign-in .auth-org-logo {
 	 position: static;
 	 width: 120px;
 	 max-height: 50px;
 	 left: 96.44px;
 	 top: calc(50% - 40px/2 - 229.5px);
 }
- #widget-container #okta-sign-in a.link {
+#okta-sign-in a.link {
 	 color: #0087d3;
 	 display: contents;
 }
- #widget-container #okta-sign-in .button-primary {
+#okta-sign-in .button-primary {
 	 color: #fff;
 	 font-size: 16px;
 	 background: #0087d3;
 }
- #widget-container #okta-sign-in .button-primary:hover {
+#okta-sign-in .button-primary:hover {
 	 color: #fff;
 	 background: #0091e2;
 }
- #widget-container #okta-sign-in .o-form-head {
+#okta-sign-in .o-form-head {
 	 position: static;
 	 width: 296px;
 	 height: 45px;
@@ -32,16 +32,16 @@
 	 letter-spacing: -0.25px;
 	 color: rgba(0, 0, 0, 0.87);
 }
- #widget-container #okta-sign-in .okta-form-input-field {
+#okta-sign-in .okta-form-input-field {
 	 background: #eee;
 }
- #widget-container #okta-sign-in input::placeholder {
+ # #okta-sign-in input::placeholder {
 	 color: rgba(0, 0, 0, 0.6);
 }
- #widget-container #okta-sign-in .custom-checkbox input {
+#okta-sign-in .custom-checkbox input {
 	 background: rgba(0, 0, 0, 0.6);
 }
- #widget-container #okta-sign-in .custom-checkbox label {
+#okta-sign-in .custom-checkbox label {
 	 font-style: normal;
 	 font-weight: 400;
 	 font-size: 13px;
@@ -49,18 +49,18 @@
 	 letter-spacing: 0.15px;
 	 color: rgba(0, 0, 0, 0.87);
 }
- #widget-container #okta-sign-in .auth-footer {
+#okta-sign-in .auth-footer {
 	 display: contents;
 	 text-align: center;
 	 font-size: 16px;
 }
- #widget-container #okta-sign-in .auth-footer .js-help {
+#okta-sign-in .auth-footer .js-help {
 	 display: none;
 }
- #widget-container #okta-sign-in .help-links {
+#okta-sign-in .help-links {
 	 display: block !important;
 }
- #widget-container #okta-sign-in .footer {
+#okta-sign-in .footer {
 	 position: static;
 	 font-size: 10px;
 	 text-align: center;
