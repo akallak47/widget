@@ -41,7 +41,7 @@
 #okta-sign-in .custom-checkbox input {
 	 background: rgba(0, 0, 0, 0.6);
 }
-#okta-sign-in .o-form .custom-checkbox label {
+#okta-sign-in .custom-checkbox label {
 	 font-style: normal;
 	 font-weight: 400;
 	 font-size: 20px;
