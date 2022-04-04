@@ -12,7 +12,7 @@
 #okta-sign-in.auth-container .button-primary {
 	 color: #fff;
 	 font-size: 16px;
-	 background: #0087d3;
+	 background: #0087d3 !important;
 }
 #okta-sign-in .button-primary:hover {
 	 color: #fff;
