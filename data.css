@@ -33,7 +33,7 @@
 	 color: rgba(0, 0, 0, 0.87);
 }
 #okta-sign-in .okta-form-input-field {
-	 background: #eee;
+	 background: #eeeeee;
 }
 #okta-sign-in input::placeholder {
 	 color: rgba(0, 0, 0, 0.6);
