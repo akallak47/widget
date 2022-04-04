@@ -35,13 +35,13 @@
 #okta-sign-in .okta-form-input-field {
 	 background: #eee;
 }
- # #okta-sign-in input::placeholder {
+#okta-sign-in input::placeholder {
 	 color: rgba(0, 0, 0, 0.6);
 }
 #okta-sign-in .custom-checkbox input {
 	 background: rgba(0, 0, 0, 0.6);
 }
-#okta-sign-in .custom-checkbox label {
+#okta-sign-in .o-form-input-name-remember {
 	 font-style: normal;
 	 font-weight: 400;
 	 font-size: 20px;
