@@ -32,8 +32,8 @@
 	 letter-spacing: -0.25px;
 	 color: rgba(0, 0, 0, 0.87);
 }
-#okta-sign-in .okta-form-input-field {
-	 background: #eeeeee;
+#okta-sign-in.auth-container .okta-form-input-field {
+	 background: #eee;
 }
 #okta-sign-in input::placeholder {
 	 color: rgba(0, 0, 0, 0.6);
