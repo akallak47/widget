@@ -9,9 +9,9 @@
 	 color: #0087d3 !important;
 	 display: contents;
 }
-#okta-sign-in.auth-container .link:hover {
+/*#okta-sign-in.auth-container .link:hover {
 	 font-weight: bold;
-}
+}*/
 #okta-sign-in.auth-container .button-primary {
 	 color: #fff;
 	 font-size: 16px;
