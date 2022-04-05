@@ -9,11 +9,8 @@
 	 color: #0087d3;
 	 display: contents;
 }
-#okta-sign-in.auth-container .link:visited {
-	 text-decoration: none;
-}
 #okta-sign-in.auth-container .link:hover {
-	 text-decoration: underline;
+	 font-weight: bold;
 }
 #okta-sign-in.auth-container .button-primary {
 	 color: #fff;
