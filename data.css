@@ -6,7 +6,7 @@
 	 top: calc(50% - 40px/2 - 229.5px);
 }
 #okta-sign-in.auth-container .link:link {
-	 color: #0087d3;
+	 color: #0087d3 !important;
 	 display: contents;
 }
 #okta-sign-in.auth-container .link:hover {
@@ -18,8 +18,7 @@
 	 background: #0087d3 !important;
 }
 #okta-sign-in.auth-container .button-primary:hover {
-	 color: #fff;
-	 background: #eee;
+    filter: brightness(1.1);
 }
 #okta-sign-in .o-form-head {
 	 position: static;
