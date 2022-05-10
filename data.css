@@ -60,7 +60,7 @@
 	 display: none !important;
 }
 #okta-sign-in .auth-footer .js-help-link {
-	 display: none;
+	 display: none !important;
 }
 #okta-sign-in .help-links {
 	 display: block !important;
