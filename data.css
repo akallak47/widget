@@ -59,7 +59,7 @@
 #okta-sign-in .auth-footer .js-help {
 	 display: none !important;
 }
-#okta-sign-in link js-help-link {
+#okta-sign-in.auth-container link .js-help-link {
 	 display: none !important;
 }
 #okta-sign-in .help-links {
